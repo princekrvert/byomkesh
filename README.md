@@ -8,10 +8,15 @@
 ## copy and paste the following command 
 
 *`apt update && apt upgrade`
+
 *`pkg install python && pkg install python3`
+
 *`git clone `
+
 *`cd byomkesh`
+
 *`chmod +x *`
+
 *`python3 byomkesh.py --help `
 
 
