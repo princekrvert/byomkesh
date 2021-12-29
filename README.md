@@ -10,7 +10,9 @@
 *`apt update && apt upgrade`
 
 *`pkg install python && pkg install python3`
+
 *`pip install request`
+
 *`git clone https://github.com/princekrvert/byomkesh.git`
 
 *`cd byomkesh`
