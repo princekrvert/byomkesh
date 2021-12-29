@@ -11,7 +11,7 @@
 
 *`pkg install python && pkg install python3`
 
-*`pip install request`
+*`pip install requests`
 
 *`git clone https://github.com/princekrvert/byomkesh.git`
 
